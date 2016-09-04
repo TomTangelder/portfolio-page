@@ -1,0 +1,54 @@
+<style type="text/css">
+
+.div-padding-top {
+	padding-top: 20%;
+}
+
+.div-margin {
+	margin: 60px 10px 10px 10px;
+}
+
+.main-background-color {
+  background-color: #d9d9d9;
+}
+
+.navbar {
+	background-color: #2d5986;
+	margin: 0;
+	border: none;
+
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: white;
+}
+
+.anchor-font {
+	font-family: Cinzel;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+.portfolio-image {
+	margin: 10px;
+}
+
+.small-image {
+	max-width: 150px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+</style>
